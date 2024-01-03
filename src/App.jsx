@@ -4,7 +4,7 @@ import Footer from './front/Footer';
 import Header from './front/Header'
 import Home from './front/Home'
 import Login from './front/Login'
-import About from './front/about'
+import About from './front/About'
 
 import View from './view/SubjectView'
 import ScienceVideoView from './view/ScienceVideoView'
