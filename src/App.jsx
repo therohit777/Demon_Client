@@ -22,7 +22,7 @@ import Query from './page/Query'
 import Courses from './front/Courses';
 
 import ClassicalDanceView from './view/ClassicalDanceView';
-import ClassicalDanceUpload from './upload/ClassicalDanceupload';
+import ClassicalDanceUpload from './upload/ClassicalDanceUpload';
 import ItView from './view/ItView';
 import ItUpload from './upload/Itupload';
 import YogaView from './view/YogaView';
