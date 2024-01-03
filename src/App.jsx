@@ -24,7 +24,7 @@ import Courses from './front/Courses';
 import ClassicalDanceView from './view/ClassicalDanceView';
 import ClassicalDanceUpload from './upload/ClassicalDanceUpload';
 import ItView from './view/ItView';
-import ItUpload from './upload/Itupload';
+import ItUpload from './upload/ItUpload';
 import YogaView from './view/YogaView';
 import YogaUpload from './upload/YogaUpload';
 import ReligiousUpload from './upload/ReligiousUpload';
