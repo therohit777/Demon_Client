@@ -1,0 +1,141 @@
+.course_hero{
+    padding: 5rem;
+    text-align: center;
+    align-items: center;
+}
+a{
+    text-decoration: none !important;
+}
+.Tutors_near .container h3{
+    text-align: center;
+}
+.Tutors_near .container .card-body a{
+    text-align: center;
+    
+}
+.Tutors_near .container .card-body a p{
+    color: black;
+}
+.Tutors_near .container .card img{
+    height: 200px;
+}
+.Tutors_near .container .card-body{
+    margin-top: -20px;
+    height: 130px;
+}
+/*Form*/
+.search-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#search-input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+}
+
+#search-button {
+    padding: 10px 15px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 0 5px 5px 0;
+    background-color:#198754;
+    color: #fff;
+    cursor: pointer;
+    outline: none;
+}
+
+#search-button:hover {
+    background-color:#198754;
+    
+}
+
+/*tutors*/
+.Tutors_near .row{
+    gap: 5rem;
+    
+}
+
+.Tutors_near h6{
+    color:#777;
+}
+
+.Tutors_near i{
+    color:rgb(245, 245, 26);
+
+}
+.Tutors_near .container .row .card {
+    border-radius: 30px 30px 0 0;
+}
+
+.Tutors_near .container .row .card img{
+    margin-top: -15px;
+    border-radius: 30px 30px 0 0;
+}
+
+.Tutors_near .container .row .card:hover{
+    transform: scale(1.2);
+    
+}
+
+.shadow{
+    box-shadow: 0px 2px 10px rgba(0,0,0,0.2);
+}
+
+.shadow p{
+    border-bottom: 1px solid #777;
+}
+
+/*Info*/
+.info .container{
+    box-shadow: 0px 2px 10px rgba(0,0,0,0.2);
+} 
+
+/*Partners*/
+
+.partners{
+
+    padding: 3rem;
+    
+}
+.partners .row{
+    justify-content: space-around;
+}
+
+.partners .row .part{
+    height: 3rem;
+    filter: brightness(0);
+    opacity: 50%;
+    
+}
+
+.container .Exams .row .fl1{
+   background-color: #3b436c;
+   margin: 10px;
+   width: 300px;
+   height: 120px;
+}
+.container .Exams .row .fl1 p{
+    color: white;
+    cursor: pointer;
+    font-size: large;
+}
+.container .Exams .row .fl2{
+    background-color: white;
+    width: 300px;
+    margin-top: 10px;
+    height: 120px;
+ }
+ .container .Exams .row .fl2 p{
+     color: black;
+     cursor: pointer;
+     font-size: large;
+ }
+ .container .Exams .row .Exam:hover{
+    transform: scale(1.2);
+}
